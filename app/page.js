@@ -111,7 +111,7 @@ export default function HomePage() {
 
       <footer id="contact" className="footer">
         <h2>myshop</h2>
-        <p>Email: bhattsameer4447@gmail.com | Phone: +1 (800) 555-0199</p>
+        <p>Email: contact@furi.info.np | Phone: +1 (800) 555-0199</p>
         <small>© {new Date().getFullYear()} myshop. All rights reserved.</small>
       </footer>
     </main>
