@@ -18,7 +18,7 @@ describe("HomePage", () => {
 
   it("renders the contact email in the footer", () => {
     render(<HomePage />);
-    expect(screen.getByText(/contact@info.info.np/i)).toBeInTheDocument();
+    expect(screen.getByText(/contact@furi.info.np/i)).toBeInTheDocument();
   });
 
   it("renders the correct phone number in the footer", () => {
